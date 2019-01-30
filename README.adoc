@@ -9,13 +9,14 @@
 :page-layout: guide
 :projectid: sessions
 :page-duration: 25 minutes
+// :page-imagesdir: /guides/{projectid}/assets/
 :page-releasedate: 2018-07-17
 :page-description: Learn how to create and cache session data that persists between servers.
 :page-tags: ['sessions', 'session persistence','sessionCache-1.0']
 :page-related-guides: ['microprofile-openapi', 'rest-intro']
 :page-permalink: /guides/{projectid}
 :common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/master
-:imagesdir: assets/
+:imagesdir: draft-guide-{projectid}/assets/
 = Creating an application with HTTP session caching
 
 Learn how to create and work with session data. Expand on this knowledge by using
